@@ -1,0 +1,7 @@
+{
+  "day": "07 / 20",
+  "title": "İzole Kod Çalıştırma Laboratuvarı",
+  "description": "JavaScript çözümünü Docker içinde kaynak sınırlarıyla çalıştırıp sonuç geçmişini sakla.",
+  "mode": "Docker gerekli · varsayılan kapalı",
+  "note": "Kapsam ve ileri adımlar: PROJECT_DETAILS.pdf"
+}

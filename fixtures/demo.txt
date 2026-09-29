@@ -1,0 +1,1 @@
+Vue arayüzü Node.js API ile haberleşir. SQLite veritabanı verileri yerel dosyada saklar. Bu dosya örnek yükleme ve arama işlemleri içindir.

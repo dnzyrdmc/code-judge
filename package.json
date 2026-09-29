@@ -1,0 +1,31 @@
+{
+  "name": "day-07-code-judge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0 <25"
+  },
+  "scripts": {
+    "dev": "node server/index.js --dev",
+    "build": "vite build",
+    "start": "node server/index.js",
+    "test": "node --test tests/*.test.js",
+    "typecheck": "vue-tsc --noEmit",
+    "seed": "node scripts/seed.js"
+  },
+  "dependencies": {
+    "express": "5.1.0",
+    "hls.js": "1.6.13",
+    "marked": "16.3.0",
+    "pdf-parse": "2.4.5",
+    "sanitize-html": "2.17.7",
+    "vue": "3.5.22"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "6.0.1",
+    "typescript": "5.9.2",
+    "vite": "7.3.6",
+    "vue-tsc": "3.1.0"
+  }
+}
